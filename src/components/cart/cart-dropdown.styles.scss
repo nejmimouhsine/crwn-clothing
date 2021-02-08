@@ -23,9 +23,7 @@
     overflow-y: scroll;
 
     &::-webkit-scrollbar {
-      width: 2px;
-      background-color: #000;
-      border-radius: 50%;
+      display: none;
     }
   }
 
